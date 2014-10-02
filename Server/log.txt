@@ -1,0 +1,428 @@
+2014/02/28 23:02:46: START OF GAME
+2014/03/04 11:36:18: START OF GAME
+2014/03/04 11:36:20: Server started...Waiting for Connections
+
+2014/03/04 11:36:23: Connection received from: CMPLAB5-05.cmp.uea.ac.uk on port 5550
+
+2014/03/04 11:36:23: Thread ID (tID)=0
+2014/03/04 11:36:23: Connection accepted
+2014/03/04 11:36:23: Starting game
+2014/03/04 11:36:27: Player 1 name is: th
+
+2014/03/04 11:36:27: Player 1: ph=Card 1: 5 of Clubs
+2014/03/04 11:36:27: Player 1: ph=Card 2: 7 of Clubs
+2014/03/04 11:36:27: Player 1: pt= Total: 12
+2014/03/04 11:36:30: Player 1: Card 3: 10 of Hearts
+2014/03/04 11:36:30: Player 1: Went Bust!
+2014/03/04 11:36:30: Player 2 is a Robut
+
+2014/03/04 11:36:30: Player 1: Went Bust!
+2014/03/04 11:36:30: Card 1: 3 of Clubs
+
+2014/03/04 11:36:30: Card 2: 2 of Diamonds
+
+2014/03/04 11:36:30: Player 3 is a Robut
+
+2014/03/04 11:36:30: Card 1: 6 of Hearts
+
+2014/03/04 11:36:30: Card 2: 2 of Diamonds
+
+2014/03/04 11:36:31: Player 4 is a Robut
+
+2014/03/04 11:36:31: Card 1: 7 of Diamonds
+
+2014/03/04 11:36:31: Card 2: 2 of Spades
+
+2014/03/04 11:36:31: Player 2 twists
+
+2014/03/04 11:36:31: Card 3: 4 of Clubs
+
+2014/03/04 11:36:33: Player 2 twists
+
+2014/03/04 11:36:33: Card 4: Ace of Spades
+
+2014/03/04 11:36:35: Player 2 is sticking
+
+2014/03/04 11:36:37: Player 3 twists
+
+2014/03/04 11:36:37: Card 3: 8 of Clubs
+
+2014/03/04 11:36:39: Player 3 is sticking
+
+2014/03/04 11:36:41: Player 4 twists
+
+2014/03/04 11:36:41: Card 3: 6 of Spades
+
+2014/03/04 11:36:43: Player 4 is sticking
+
+2014/03/04 11:36:43: All players finished, Deciding Winner
+2014/03/04 11:36:43: Player 1 Wins!
+2014/03/04 11:36:43: GAME OVER MAN
+2014/03/04 11:49:44: START OF GAME
+2014/03/04 11:49:46: Server started...Waiting for Connections
+
+2014/03/04 11:50:13: Connection received from: cmp-v-2154435.cmp.uea.ac.uk on port 22
+
+2014/03/04 11:50:13: Thread ID (tID)=0
+2014/03/04 11:50:13: Starting game
+2014/03/04 11:50:13: Connection accepted
+2014/03/04 11:50:18: Player 1 name is: tom
+
+2014/03/04 11:50:18: Player 1: ph=Card 1: 9 of Clubs
+2014/03/04 11:50:18: Player 1: ph=Card 2: Ace of Clubs
+2014/03/04 11:50:18: Player 1: pt= Total: 20
+2014/03/04 11:50:21: Player 1 is sticking.
+2014/03/04 11:50:21: Player 2 is a Robut
+
+2014/03/04 11:50:21: Card 1: Queen of Clubs
+
+2014/03/04 11:50:21: Card 2: 3 of Diamonds
+
+2014/03/04 11:50:21: Player 3 is a Robut
+
+2014/03/04 11:50:21: Card 1: 5 of Clubs
+
+2014/03/04 11:50:21: Card 2: 6 of Spades
+
+2014/03/04 11:50:22: Player 4 is a Robut
+
+2014/03/04 11:50:22: Card 1: 9 of Hearts
+
+2014/03/04 11:50:22: Card 2: Jack of Hearts
+
+2014/03/04 11:50:22: Player 2 twists
+
+2014/03/04 11:50:22: Card 3: 6 of Hearts
+
+2014/03/04 11:50:24: Player 2 twists
+
+2014/03/04 11:50:24: Card 4: 8 of Spades
+
+2014/03/04 11:50:26: Player 2 is sticking
+
+2014/03/04 11:50:26: Player 2 went Bust!
+
+2014/03/04 11:50:28: Player 3 twists
+
+2014/03/04 11:50:28: Card 3: 9 of Spades
+
+2014/03/04 11:50:30: Player 3 is sticking
+
+2014/03/04 11:50:32: Player 4 is sticking
+
+2014/03/04 11:50:32: Player 4 Total: 19
+
+2014/03/04 11:50:32: All players finished, Deciding Winner
+2014/03/04 11:50:32: Player 1 Wins!
+2014/03/04 11:50:32: Player 3 Wins!
+2014/03/04 11:50:32: GAME OVER MAN
+2014/03/04 12:00:41: START OF GAME
+2014/03/04 12:00:46: Server started...Waiting for Connections
+
+2014/03/04 12:00:48: Connection received from: CMP-V-2154434.cmp.uea.ac.uk on port 22
+
+2014/03/04 12:00:48: Thread ID (tID)=0
+2014/03/04 12:00:48: Connection accepted
+2014/03/04 12:00:48: Starting game
+2014/03/04 12:00:50: Player 1 name is: kigukl
+
+2014/03/04 12:00:50: Player 1: ph=Card 1: 8 of Hearts
+2014/03/04 12:00:50: Player 1: ph=Card 2: Jack of Spades
+2014/03/04 12:00:50: Player 1: pt= Total: 18
+2014/03/04 12:00:52: Player 1: Card 3: 3 of Diamonds
+2014/03/04 12:00:52: Player 1: Went Bust!
+2014/03/04 12:00:56: Player 1: Card 4: King of Diamonds
+2014/03/04 12:00:56: Player 1: Went Bust!
+2014/03/04 12:00:56: Player 2 is a Robut
+
+2014/03/04 12:00:56: Player 1: Went Bust!
+2014/03/04 12:00:56: Card 1: 7 of Clubs
+
+2014/03/04 12:00:56: Card 2: 7 of Hearts
+
+2014/03/04 12:00:56: Player 3 is a Robut
+
+2014/03/04 12:00:56: Card 1: 7 of Clubs
+
+2014/03/04 12:00:56: Card 2: 7 of Diamonds
+
+2014/03/04 12:00:57: Player 4 is a Robut
+
+2014/03/04 12:00:57: Card 1: 8 of Spades
+
+2014/03/04 12:00:57: Card 2: 9 of Clubs
+
+2014/03/04 12:00:57: Player 2 twists
+
+2014/03/04 12:00:57: Card 3: 2 of Clubs
+
+2014/03/04 12:00:59: Player 2 twists
+
+2014/03/04 12:00:59: Card 4: 6 of Diamonds
+
+2014/03/04 12:01:01: Player 2 is sticking
+
+2014/03/04 12:01:01: Player 2 went Bust!
+
+2014/03/04 12:01:03: Player 3 twists
+
+2014/03/04 12:01:03: Card 3: 6 of Spades
+
+2014/03/04 12:01:05: Player 3 is sticking
+
+2014/03/04 12:01:07: Player 4 is sticking
+
+2014/03/04 12:01:07: Player 4 Total: 17
+
+2014/03/04 12:01:07: All players finished, Deciding Winner
+2014/03/04 12:01:07: Player 3 Wins!
+2014/03/04 12:01:07: GAME OVER MAN
+2014/03/04 12:18:16: START OF GAME
+2014/03/04 12:18:48: Server started...Waiting for Connections
+
+2014/03/04 12:19:27: Connection received from: CMP-V-2154434.cmp.uea.ac.uk on port 22
+
+2014/03/04 12:19:27: Thread ID (tID)=0
+2014/03/04 12:19:27: Starting game
+2014/03/04 12:19:27: Connection accepted
+2014/03/04 12:19:32: Player 1 name is: tom
+
+2014/03/04 12:19:32: Player 1: ph=Card 1: 9 of Clubs
+2014/03/04 12:19:32: Player 1: ph=Card 2: 5 of Diamonds
+2014/03/04 12:19:32: Player 1: pt= Total: 14
+2014/03/04 12:19:50: Player 1: Card 3: 4 of Spades
+2014/03/04 12:19:50: Player 1: Went Bust!
+2014/03/04 12:20:23: Player 1 is sticking.
+2014/03/04 12:20:23: Player 2 is a Robut
+
+2014/03/04 12:20:23: Card 1: 6 of Clubs
+
+2014/03/04 12:20:23: Card 2: 2 of Diamonds
+
+2014/03/04 12:20:24: Player 3 is a Robut
+
+2014/03/04 12:20:24: Card 1: Queen of Hearts
+
+2014/03/04 12:20:24: Card 2: 7 of Clubs
+
+2014/03/04 12:20:24: Player 4 is a Robut
+
+2014/03/04 12:20:24: Card 1: Queen of Clubs
+
+2014/03/04 12:20:24: Card 2: 4 of Clubs
+
+2014/03/04 12:20:25: Player 2 twists
+
+2014/03/04 12:20:25: Card 3: 5 of Spades
+
+2014/03/04 12:20:27: Player 2 twists
+
+2014/03/04 12:20:27: Card 4: 9 of Hearts
+
+2014/03/04 12:20:29: Player 2 is sticking
+
+2014/03/04 12:20:29: Player 2 went Bust!
+
+2014/03/04 12:20:31: Player 3 is sticking
+
+2014/03/04 12:20:31: Player 3 Total: 17
+
+2014/03/04 12:20:33: Player 4 is sticking
+
+2014/03/04 12:20:33: Player 4 Total: 14
+
+2014/03/04 12:20:33: All players finished, Deciding Winner
+2014/03/04 12:20:33: Player 1 Wins!
+2014/03/04 12:20:33: GAME OVER MAN
+2014/03/04 12:21:23: START OF GAME
+2014/03/04 12:21:24: Server started...Waiting for Connections
+
+2014/03/04 12:21:52: Connection received from: cmp-v-2154435.cmp.uea.ac.uk on port 22
+
+2014/03/04 12:21:52: Thread ID (tID)=0
+2014/03/04 12:21:52: Starting game
+2014/03/04 12:21:52: Connection accepted
+2014/03/04 12:21:56: Player 1 name is: tom
+
+2014/03/04 12:21:56: Player 1: ph=Card 1: 9 of Spades
+2014/03/04 12:21:56: Player 1: ph=Card 2: 6 of Hearts
+2014/03/04 12:21:56: Player 1: pt= Total: 15
+2014/03/04 12:22:02: Player 1: Card 3: Queen of Spades
+2014/03/04 12:22:02: Player 1: Went Bust!
+2014/03/04 12:22:02: Player 2 is a Robut
+
+2014/03/04 12:22:02: Player 1: Went Bust!
+2014/03/04 12:22:02: Card 1: 4 of Diamonds
+
+2014/03/04 12:22:02: Card 2: 4 of Clubs
+
+2014/03/04 12:22:03: Player 3 is a Robut
+
+2014/03/04 12:22:03: Card 1: 4 of Clubs
+
+2014/03/04 12:22:03: Card 2: 9 of Hearts
+
+2014/03/04 12:22:03: Player 4 is a Robut
+
+2014/03/04 12:22:03: Card 1: 8 of Diamonds
+
+2014/03/04 12:22:03: Card 2: 2 of Spades
+
+2014/03/04 12:22:04: Player 2 twists
+
+2014/03/04 12:22:04: Card 3: 9 of Spades
+
+2014/03/04 12:22:06: Player 2 twists
+
+2014/03/04 12:22:06: Card 4: 5 of Diamonds
+
+2014/03/04 12:22:08: Player 2 is sticking
+
+2014/03/04 12:22:08: Player 2 went Bust!
+
+2014/03/04 12:22:10: Player 3 twists
+
+2014/03/04 12:22:10: Card 3: 8 of Diamonds
+
+2014/03/04 12:22:12: Player 3 is sticking
+
+2014/03/04 12:22:14: Player 4 twists
+
+2014/03/04 12:22:14: Card 3: 8 of Spades
+
+2014/03/04 12:22:16: Player 4 is sticking
+
+2014/03/04 12:22:16: All players finished, Deciding Winner
+2014/03/04 12:22:16: Player 3 Wins!
+2014/03/04 12:22:16: GAME OVER MAN
+2014/03/04 12:25:59: START OF GAME
+2014/03/04 12:26:01: Server started...Waiting for Connections
+
+2014/03/04 12:26:15: Connection received from: CMP-V-2154434.cmp.uea.ac.uk on port 22
+
+2014/03/04 12:26:15: Thread ID (tID)=0
+2014/03/04 12:26:15: Connection accepted
+2014/03/04 12:26:18: Connection received from: CMP-V-2154434.cmp.uea.ac.uk on port 22
+
+2014/03/04 12:26:18: Thread ID (tID)=1
+2014/03/04 12:26:18: Starting game
+2014/03/04 12:26:18: Connection accepted
+2014/03/04 12:26:23: Player 1 name is: tom
+
+2014/03/04 12:26:23: Player 1: ph=Card 1: 5 of Hearts
+2014/03/04 12:26:23: Player 1: ph=Card 2: 2 of Clubs
+2014/03/04 12:26:23: Player 1: pt= Total: 7
+2014/03/04 12:26:28: Player 2 name is: tim
+
+2014/03/04 12:26:28: Player 1: ph=Card 1: 8 of Hearts
+2014/03/04 12:26:28: Player 1: ph=Card 2: Jack of Clubs
+2014/03/04 12:26:28: Player 1: pt= Total: 18
+2014/03/04 12:26:32: Player 1: Card 3: Ace of Hearts
+2014/03/04 12:26:32: Player 1: Went Bust!
+2014/03/04 12:26:34: Player 1 is sticking.
+2014/03/04 12:26:34: Player 2 is a Robut
+
+2014/03/04 12:26:34: Card 1: Queen of Spades
+
+2014/03/04 12:26:34: Card 2: Jack of Clubs
+
+2014/03/04 12:26:34: Player 3 is a Robut
+
+2014/03/04 12:26:34: Card 1: 5 of Hearts
+
+2014/03/04 12:26:34: Card 2: 3 of Diamonds
+
+2014/03/04 12:26:35: Player 4 is a Robut
+
+2014/03/04 12:26:35: Card 1: 7 of Diamonds
+
+2014/03/04 12:26:35: Card 2: 5 of Spades
+
+2014/03/04 12:26:35: Player 2 is sticking
+
+2014/03/04 12:26:35: Player 2 Total: 20
+
+2014/03/04 12:26:37: Player 3 twists
+
+2014/03/04 12:26:37: Card 3: 9 of Hearts
+
+2014/03/04 12:26:39: Player 3 is sticking
+
+2014/03/04 12:26:41: Player 4 twists
+
+2014/03/04 12:26:41: Card 3: Jack of Clubs
+
+2014/03/04 12:26:43: Player 4 is sticking
+
+2014/03/04 12:26:43: Player 4 went Bust!
+
+2014/03/04 12:26:43: All players finished, Deciding Winner
+2014/03/04 12:26:43: Player 2 Wins!
+2014/03/04 12:26:43: GAME OVER MAN
+2014/03/04 12:26:51: START OF GAME
+2014/03/04 12:27:01: Server started...Waiting for Connections
+
+2014/03/04 12:27:11: Connection received from: CMP-V-2154434.cmp.uea.ac.uk on port 22
+
+2014/03/04 12:27:11: Thread ID (tID)=0
+2014/03/04 12:27:11: Connection accepted
+2014/03/04 12:27:19: Connection received from: CMP-V-2154434.cmp.uea.ac.uk on port 22
+
+2014/03/04 12:27:19: Thread ID (tID)=1
+2014/03/04 12:27:19: Connection accepted
+2014/03/04 12:27:19: Starting game
+2014/03/04 12:27:29: START OF GAME
+2014/03/04 12:27:38: Server started...Waiting for Connections
+
+2014/03/04 12:27:47: Connection received from: CMP-V-2154434.cmp.uea.ac.uk on port 22
+
+2014/03/04 12:27:47: Thread ID (tID)=0
+2014/03/04 12:27:47: Connection accepted
+2014/03/04 12:27:53: Connection received from: CMP-V-2154434.cmp.uea.ac.uk on port 22
+
+2014/03/04 12:27:53: Thread ID (tID)=1
+2014/03/04 12:27:53: Starting game
+2014/03/04 12:27:53: Connection accepted
+2014/03/04 12:27:55: Player 2 is a Robut
+
+2014/03/04 12:27:55: Player 1: Went Bust!
+2014/03/04 12:27:55: Card 1: 2 of Spades
+
+2014/03/04 12:27:55: Player 2 name is: tom
+
+2014/03/04 12:27:55: Card 2: 7 of Spades
+
+2014/03/04 12:27:55: Player 1: ph=Card 1: Ace of Spades
+2014/03/04 12:27:55: Player 1: ph=Card 2: Ace of Clubs
+2014/03/04 12:27:55: Player 1: pt= Total: 22
+2014/03/04 12:27:56: Player 3 is a Robut
+
+2014/03/04 12:27:56: Card 1: 3 of Clubs
+
+2014/03/04 12:27:56: Card 2: King of Spades
+
+2014/03/04 12:27:56: Player 4 is a Robut
+
+2014/03/04 12:27:56: Card 1: Jack of Hearts
+
+2014/03/04 12:27:56: Card 2: Queen of Spades
+
+2014/03/04 12:27:57: Player 2 twists
+
+2014/03/04 12:27:57: Card 3: 6 of Hearts
+
+2014/03/04 12:27:59: Player 2 twists
+
+2014/03/04 12:27:59: Card 4: Jack of Hearts
+
+2014/03/04 12:28:01: Player 2 is sticking
+
+2014/03/04 12:28:01: Player 2 went Bust!
+
+2014/03/04 12:28:12: START OF GAME
+2014/03/04 12:28:19: Server started...Waiting for Connections
+
+2014/03/04 12:28:20: Connection received from: CMP-V-2154434.cmp.uea.ac.uk on port 22
+
+2014/03/04 12:28:20: Thread ID (tID)=0
+2014/03/04 12:28:20: Connection accepted
